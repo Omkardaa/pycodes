@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 This is Initial commit and not committed!!
 =======
-This is git file1, trying to push 
+This is git file1, trying t
 
